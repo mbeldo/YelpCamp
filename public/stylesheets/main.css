@@ -1,0 +1,59 @@
+.thumbnail img{
+    width:100%;
+ 
+}
+* {
+  border-radius: 0 !important;
+}
+
+
+.thumbnail{
+
+    width: 100%;
+    height: 100%;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    position: relative;
+
+
+}
+
+.thumbnail .caption-full {
+padding:5px;
+}
+
+#delete-form {
+    display: inline;
+}
+#thumbnail-img {
+    padding:100px !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+}
+
+#campground{
+    margin:0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+#caption {
+
+
+    color: #ffffff !important;
+    margin: 0px !important;
+    font-weight: 700 !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+        text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#image-row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
